@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/test.rcp.feature_1.0.0.201702161903.jar" id="test.rcp.feature" version="1.0.0.201702161903"/>
+   <feature url="features/test.rcp.feature_1.0.0.201702181639.jar" id="test.rcp.feature" version="1.0.0.201702181639"/>
 </site>
