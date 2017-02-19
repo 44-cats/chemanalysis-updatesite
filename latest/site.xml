@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/test.rcp.feature_1.0.0.201702181642.jar" id="test.rcp.feature" version="1.0.0.201702181642">
+   <feature url="features/test.rcp.feature_1.0.0.201702191530.jar" id="test.rcp.feature" version="1.0.0.201702191530">
       <category name="chemanalysis"/>
    </feature>
    <category-def name="chemanalysis" label="ChemAnalysis"/>
